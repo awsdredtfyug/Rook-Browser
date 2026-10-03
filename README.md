@@ -3,4 +3,6 @@ Rook Browser is a school proxy that has many features. For starters, it uses Wis
 
 Go to mineee2.html and download the file, open it, and boom, you have an entire unblocked browser
 
-If you have any questions or suggestions feel free to email me. 735256@salemkeizer.org
+If you have any questions or suggestions, feel free to email me. 735256@salemkeizer.org
+
+again sorry about the css (style) missing, im currently working on it
